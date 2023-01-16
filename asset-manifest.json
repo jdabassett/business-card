@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/business-card/static/css/main.47f02e67.css",
+    "main.js": "/business-card/static/js/main.644232ee.js",
+    "static/media/jacobbassett.jpg": "/business-card/static/media/jacobbassett.28bc0c07c333f22f4ba1.jpg",
+    "index.html": "/business-card/index.html",
+    "main.47f02e67.css.map": "/business-card/static/css/main.47f02e67.css.map",
+    "main.644232ee.js.map": "/business-card/static/js/main.644232ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47f02e67.css",
+    "static/js/main.644232ee.js"
+  ]
+}
